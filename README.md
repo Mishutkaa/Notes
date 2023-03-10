@@ -1,3 +1,6 @@
 # Notes
-Notes written in Python using json
+Notes written in Python using json.
+
+
+
 Pass: ponosmamonta
